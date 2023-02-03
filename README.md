@@ -1,0 +1,4 @@
+# client-server
+This is a simple client-server socket program implemented in C programming language, designed to run in a Linux environment. The client can send Linux commands to the server, which then returns the output of that command to the client. The program supports multiple client handling and load balancing between two servers, making it a versatile tool for network communication.
+The program is designed for developers who want to implement a basic client-server socket communication, or for those who are interested in learning about socket programming and Linux commands. This program can be used as a reference or starting point for more complex network applications.
+This project is available on GitHub and can be easily integrated into other projects or modified to meet your specific needs. Whether you're a beginner or an experienced programmer, this program is a great way to learn about socket programming and Linux commands.
